@@ -8,7 +8,7 @@ In HFT (High Frequency Trading), traders constantly receive market data. When th
 
 Unlike other instruments and markets, cryptocurrency has more at-home traders. These traders do not work for major firms or shops, but rather trade from their computers or phones. This is possible becasue cryptocurrency is decentralized and all traders have fair access to the market feed. 
 
-We present a unique solution to cryptocurrency traders: CloudPCap (Cloud-based packet capture). As traders receive incoming market data packets, we monitor the latency of the packets to see the difference between the time the packet was sent from the exchange and the time the packet was received by the trader. We also monitor the difference between the time the packet was received and the time the trade was placed. Traders can use this to compare different data feed exchanges, order exchanges, and algorithms. 
+We present a unique solution to cryptocurrency traders: CloudPCap (Cloud-based packet ture). As traders receive incoming market data packets, we monitor the latency of the packets to see the difference between the time the packet was sent from the exchange and the time the packet was received by the trader. We also monitor the difference between the time the packet was received and the time the trade was placed. Traders can use this to compare different data feed exchanges, order exchanges, and algorithms. 
 
 The most appealing aspect of our solution is that the software is built to be stored on AWS, or other cloud based services. This provides a much cheaper alternative for at-home traders compared to an expensive hardware setup. 
 
